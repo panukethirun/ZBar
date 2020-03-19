@@ -32,6 +32,7 @@
 
 - (id) initWithReason: (NSString*) _reason
 {
+    //phuc dang
     self = [super init];
     if(!self)
         return(nil);
